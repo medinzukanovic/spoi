@@ -1,11 +1,9 @@
 
-# coding: utf-8
-
-# In[1]:
-
+# Medin Zukanovic
 
 import tkinter as tk
 from PIL import ImageTk,Image
+
 root= tk.Tk()
 root.title("SPOI")
 pocetna=tk.Label(root, text="Dobrodošli")
